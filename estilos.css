@@ -5,21 +5,20 @@
                 margin-top: 100px;
                 
                 }
-                form{
-                    
-                    width: 300px;
+            form{   margin-right: 30%;
+                    margin-left: 30%;
                     border-style: solid;
                     border-width: 1px;
-                                 }
+                                                                      }
             .btn{
                 margin-top: 20px;
                 margin-left: 5px;
                 margin-right: 5px;
-                margin-bottom: 10px;
+                margin-bottom: 20px;
                 }
-            .texto{
-                margin-top: 10px;
-                  }
-                                 
+  
+             div{                
+                 padding:20px;
+                }                  
       
 

@@ -6,15 +6,15 @@
 
 </head>
 <body>
-<center>
-    <div><h2>Conversor grados Celsius/Fahranheit</h2></div>
+
+    <div><h2>Conversor grados Celsius/Fahrenheit</h2></div>
+    <div >
  <form action="convierte.php" method="post">
-  <label>Introduzca valor a convertir: </label><br/>
+     <div> <label>Introduzca valor a convertir: </label></div>
   <input class="texto" type="text"  name="numero"/><br/>
   <input class="btn" type="submit" name="celsius" value="celsius"/>
   <input class="btn" type="submit" name="fahrenheit" value="fahrenheit" />
  </form>
-    
-    </center>
+    </div>
 </body>
 </html>
